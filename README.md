@@ -2,7 +2,7 @@
 # Olá, me chamo Carla Cleisla Santos ! 
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou disponível para o mercado de trabalho.
-- 🌱 Sou estudante cursando o curso de Devops e possuo 06 meses de experiência como Devops Júnior 
+- 🌱 Sou estudante cursando o curso de Devops e possuo 10 meses de experiência como Devops Júnior 
 - 👯 Estou procurando colaborar como uma profissional que está iniciando sua carreira na área 
 - 🤔  Possuo um conhecimento básico de práticas ágeis de desenvolvimento de software, sistemas operacionais, redes e infraestrutura de nuvem.
  responsável por ajudar no desenvolvimento, implementação e manutenção de sistemas de integração contínua e entrega contínua (CI/CD), além de apoiar na configuração e administração de servidores e serviços de nuvem
